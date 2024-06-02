@@ -5,3 +5,5 @@
 *.pkl
 torch_env/
 data/
+src/models/topic_modeling/path
+src/models/topic_modeling/model_dir

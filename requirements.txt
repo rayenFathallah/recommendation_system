@@ -1,0 +1,14 @@
+scrapy
+nltk
+pymonogo
+dotenv
+pandas
+numpy
+bertopic
+scikit-learn
+matplotlib
+seasborn
+torch=2.2.2
+deep_translator
+langdetect
+fuzzywuzzy
