@@ -1,0 +1,7 @@
+# Ignore files with the specified extensions
+*.json
+*.csv
+*.pth
+*.pkl
+torch_env/
+data/
